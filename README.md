@@ -1,13 +1,13 @@
-# Сценарий тестирования страницы вакансий
+# Job page testing scenario
 
-## Подход к созданию тест-кейсов
-Для создания тест-кейсов для страницы вакансиях компании IBS, я проанализировал ключевые функциональные возможности, которые должны быть протестированы. Особое внимание было уделено:
+## An approach to creating test cases
+To create test cases for the IBS vacancies page, I analyzed the key functionality that needs to be tested. Special attention was paid to:
 
-1. **Отображение списка вакансий**: Проверка правильности отображения всех вакансий при загрузке страницы.
-2. **Работа фильтров**: Тестирование возможности использования различных фильтров для настройки списка вакансий.
-3. **Адаптивность**: Проверка корректного отображения страницы на мобильных устройствах и при изменении размера окна браузера.
-4. **Работа поиска**: Убедиться, что функция поиска по вакансиям работает корректно и предоставляет релевантные результаты.
-5. **Доступность кнопок и ссылок**: Проверка функциональности всех кнопок и ссылок на странице.
-6. **Производительность**: Тестирование загрузки страницы при медленных интернет-соединениях и динамического обновления списка вакансий.
+1. **Displaying a list of vacancies**: Checking that all vacancies are displayed correctly when the page loads.
+2. **Filter operation**: Testing the possibility of using different filters to customize the job list.
+3. **Adaptability**: Checking the correct display of the page on mobile devices and when resizing the browser window.
+4. **Job Search**: Make sure that the job search function is working correctly and provides relevant results.
+5. **Accessibility of buttons and links**: Check the functionality of all buttons and links on the page.
+6. **Performance**: Testing page loading with slow Internet connections and dynamic updating of the job list.
 
-Тест-кейсы охватывают как базовые, так и крайние случаи, чтобы обеспечить всестороннюю проверку функциональности страницы. Каждое тестирование будет выполнено с использованием четкого набора шагов и ожидаемых результатов для подтверждения корректности работы.
+The test cases cover both basic and extreme cases to provide a comprehensive check of the page's functionality. Each test will be performed using a clear set of steps and expected results to confirm the correctness of the work.
